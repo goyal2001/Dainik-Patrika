@@ -1,0 +1,2 @@
+# Dainik-Patrika
+Daily Journal
